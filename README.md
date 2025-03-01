@@ -67,6 +67,8 @@ Using AWS to create a terrafrom instance (if one is not already available)
 	Use the url provided by Terrafrom output to access the streamlit application
 	Feel free to explore AWS console codebuild, EKS, to see the various componets andunderstad how they work
 
+
+
 9) Remove infrastructure if no longer needed
     terraform destroy
 
