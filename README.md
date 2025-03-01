@@ -64,8 +64,8 @@ Using AWS to create a terrafrom instance (if one is not already available)
 
 
 8) AFTER Terraform execution complete
-	Wait an additional 5 to 10 minutes to allow for pipeline to fully
-	Use the url provided by Terrafrom output to access the streamlit application
+	Wait an additional 5 to 10 minutes to allow for pipeline to fully deploy  
+	Use the url provided by Terraform output to access the streamlit application  
 	Feel free to explore the various AWS services: Cloudfront, ECS, ECR, CodePipline, CodeBuild, S3 to see the various componets and understad how they work
 
 
