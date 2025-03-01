@@ -35,9 +35,10 @@ Using AWS to create a terrafrom instance (if one is not already available)
 
 
 
-4) Clone the template repo to the Terraform directory
+4) Clone the template repo to the Terraform directory, then navigate to it
 
-	git clone https://github.com/gio-cloud7/Deploy-Streamlit-Template.git
+	git clone https://github.com/gio-cloud7/Deploy-Streamlit-Template.git  
+	cd Deploy-Streamlit-Template
 
 
 
