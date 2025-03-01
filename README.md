@@ -57,8 +57,8 @@ Using AWS to create a terrafrom instance (if one is not already available)
 6) Execute Terraform workflow to deploy
 
 	terraform init  
-	tf plan  
-	tf apply  
+	terraform plan  
+	terraform apply  
 
 
 
