@@ -37,14 +37,14 @@ git clone
 
 
 
-5)Prepare auth and access to AWS (Account needed)
+5)Prepare Authentication and Access method for Terraform to AWS (Account needed - crate IAM user and then create Access key)
 
 aws configure
 
-Provide key
-Provide secret key
-us-east-1 or relevant region
-press enter
+Provide Access Key
+Provide Secret Access Key
+Type 'us-east-1' or alternative desired AWS region
+press enter for default
 
 
 6) Execute Terraform workflow to deploy
