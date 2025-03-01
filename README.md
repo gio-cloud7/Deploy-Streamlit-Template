@@ -32,7 +32,7 @@ cd template
 
 4) Clone the template repo to the Terraform directory
 
-git clone
+git clone https://github.com/gio-cloud7/Deploy-Streamlit-Template.git
 
 
 
