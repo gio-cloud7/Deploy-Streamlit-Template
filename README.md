@@ -9,7 +9,7 @@ This repository builds on the post referenced above. This is a template with a w
 One possible workflow to implement the code is outlied below but the template can be adapted and implemented in other ways as well based on the use case.
 
 
-Using AWS to create a terrafrom instance (if one is not already available)
+Using AWS to create a workstation to run terraform (if one is not already available)
 
 
 1) Launch amazon linux instance
